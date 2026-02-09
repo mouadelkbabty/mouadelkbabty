@@ -8,8 +8,8 @@
 ### 🧠 About Me
 
 🌱 I’m a **Software Engineer** with a strong background in **Java / Spring Boot** and **Angular**, passionate about designing modern, secure, and efficient applications.  
-🎓 Graduated with a **Master 2 MIAGE**  
-💼 2 years of experience at **Onet Sécurité** — working on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  
+🎓 Graduated with a **Master MIAGE**  
+💼 3 years of experience at **Onet Sécurité** — working on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  
 🚀 Currently exploring new technologies around **microservices, cloud and AI-driven applications**.  
 
 ---
