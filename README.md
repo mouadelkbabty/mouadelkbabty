@@ -1,0 +1,57 @@
+<!-- Profil README - Mouad Elkbabty -->
+
+<h1 align="center">Hi 👋, I'm Mouad Elkbabty</h1>
+<h3 align="center">💻 Fullstack Software Engineer | Passionate about Java, Angular & R&D</h3>
+
+---
+
+### 🧠 About Me
+
+🌱 I’m a **Software Engineer** with a strong background in **Java / Spring Boot** and **Angular**, passionate about designing modern, secure, and efficient applications.  
+🎓 Graduated with a **Master 2 MIAGE**  
+💼 2 years of experience at **Onet Sécurité** — working on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  
+🚀 Currently exploring new technologies around **microservices, cloud and AI-driven applications**.  
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind,python,mysql,docker,git,linux" />
+</p>
+
+---
+
+### ⚙️ GitLab / GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadelkbabty&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadelkbabty&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 🏆 Git Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mouadelkbabty&theme=tokyonight&margin-w=8&no-frame=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ton-lien-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ton.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mouadelkbabty.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [Mouad Elkbabty](https://github.com/mouadelkbabty)
