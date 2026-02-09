@@ -41,10 +41,10 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ton-lien-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mouadelkbabty" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ton.email@example.com">
+  <a href="mailto:mouadelkbabty@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mouadelkbabty.vercel.app/" target="_blank">
