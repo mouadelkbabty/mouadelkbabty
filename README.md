@@ -23,7 +23,6 @@
 ---
 
 ### ⚙️ GitLab / GitHub Analytics
-### ⚙️ GitLab Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Commits-Active%20Developer-blue?style=for-the-badge&logo=gitlab" />
   <img src="https://img.shields.io/badge/Merges-Mastering%20CI%2FCD-orange?style=for-the-badge&logo=gitlab" />
