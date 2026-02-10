@@ -23,9 +23,9 @@
 ---
 
 ### ⚙️ GitLab / GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouadelkbabty&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+[<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadelkbabty&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
+</p>]
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadelkbabty&theme=tokyonight" alt="GitHub streak" />
