@@ -1,7 +1,7 @@
 <!-- Profil README - Mouad Elkbabty -->
 
 <h1 align="center">Hi 👋, I'm Mouad Elkbabty</h1>
-<h3 align="center">💻 Fullstack Software Engineer | Passionate about Java, Angular & R&D</h3>
+<h3 align="center">💻 Software Engineer | Passionate about Java, Angular & R&D</h3>
 
 ---
 
@@ -9,14 +9,15 @@
 
 🌱 I’m a **Software Engineer** with a strong background in **Java / Spring Boot** and **Angular**, passionate about designing modern, secure, and efficient applications.  
 🎓 Graduated with a **Master MIAGE**  
-💼 3 years of experience at **Onet Sécurité** — working on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  
+💼 1 years of experience at **TELEM** — working as a software engineer on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  (Java , Rust , Angular)
+💼 2 years of experience at **ONET SECURITY SYSTEMS** — working as a R1D engineer on and system scalability (JAVA , C# and Python and Vue.js).  
 🚀 Currently exploring new technologies around **microservices, cloud and AI-driven applications**.  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind,python,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind,python,mysql,docker,git,linux,rust" />
 </p>
 
 ---
@@ -31,12 +32,6 @@
 </p>
 
 ---
-
-### 🏆 Git Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouadelkbabty&theme=tokyonight&margin-w=8&no-frame=true" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
