@@ -9,8 +9,8 @@
 
 🌱 I’m a **Software Engineer** with a strong background in **Java / Spring Boot** and **Angular**, passionate about designing modern, secure, and efficient applications.  
 🎓 Graduated with a **Master MIAGE**  
-💼 1 years of experience at **TELEM** — working as a software engineer on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  (Java , Rust , Angular)
-💼 2 years of experience at **ONET SECURITY SYSTEMS** — working as a R1D engineer on and system scalability (JAVA , C# and Python and Vue.js).  
+💼 1 years of experience at **TELEM** — working as a software engineer on authentication migration, **SAML / LDAP integration**, and system scalability with **NATS**.  (Java , Rust , Angular)  
+💼 2 years of experience at **ONET SECURITY SYSTEMS** — working as a R&D engineer on and system scalability (JAVA , C# and Python and Vue.js).  
 🚀 Currently exploring new technologies around **microservices, cloud and AI-driven applications**.  
 
 ---
