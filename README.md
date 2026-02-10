@@ -23,9 +23,12 @@
 ---
 
 ### ⚙️ GitLab / GitHub Analytics
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouadelkbabty&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
-</p>]
+### ⚙️ GitLab Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active%20Developer-blue?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Merges-Mastering%20CI%2FCD-orange?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Pipelines-Passing-brightgreen?style=for-the-badge&logo=gitlab" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouadelkbabty&theme=tokyonight" alt="GitHub streak" />
